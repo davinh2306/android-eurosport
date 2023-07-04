@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eurosport</string>
+    <string name="error_message">Une erreur est survenue, désolé !</string>
+    <string name="by_author">Par %s</string>
+    <string name="by_author_date">Par %1s - %2s</string>
+    <string name="number_of_views">Vu %s fois</string>
+    <plurals name="more_one_week">
+        <item quantity="one">Il y a %d semaine</item>
+        <item quantity="many">Il y a %d semaines</item>
+        <item quantity="other">Il y a %d semaines</item>
+    </plurals>
+    <plurals name="more_one_day">
+        <item quantity="one">Il y a %d jour</item>
+        <item quantity="many">Il y a %d jours</item>
+        <item quantity="other">Il y a %d jours</item>
+    </plurals>
+    <plurals name="less_one_day">
+        <item quantity="one">Il y a %d heure</item>
+        <item quantity="many">Il y a %d heures</item>
+        <item quantity="other">Il y a %d heures</item>
+    </plurals>
+    <plurals name="less_one_hour">
+        <item quantity="one">Il y a %d minute</item>
+        <item quantity="many">Il y a %d minutes</item>
+        <item quantity="other">Il y a %d minutes</item>
+    </plurals>
+</resources>
